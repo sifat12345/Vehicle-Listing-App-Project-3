@@ -1,0 +1,21 @@
+[
+
+    {
+        "name": "Toyta 19",
+        "type": "Brand New",
+        "price": "2500000000",
+        "image": "https:\/\/en.wikipedia.org\/wiki\/Car#\/media\/File:2019_Toyota_Corolla_Icon_Tech_VVT-i_Hybrid_1.8.jpg"
+    },
+    {
+        "name": "BMW",
+        "type": "New",
+        "price": "2560000",
+        "image": "https:\/\/www.carwale.com\/toyota-cars\/taisor\/"
+    },
+    {
+        "name": "BMW - 2025",
+        "type": "Brand New",
+        "price": "25000000000000",
+        "image": "https:\/\/www.carwale.com\/maruti-suzuki-cars\/fronx\/"
+    }
+]
